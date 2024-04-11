@@ -6,8 +6,9 @@
 
 [Datasets Used](https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies?select=titles.csv)
 
-[Netflix Dashboard - Tableau]([https://public.tableau.com/app/profile/sharif.athar/viz/NetflixShowsMoviesDashboard/Dashboard1](https://public.tableau.com/views/NetflixShowsandMovies_17128672647860/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link))
-
+[Netflix Dashboard - Tableau][([https://public.tableau.com/app/profile/sharif.athar/viz/NetflixShowsMoviesDashboard/Dashboard1](https://public.tableau.com/views/NetflixShowsandMovies_17128672647860/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link))
+](https://public.tableau.com/app/profile/sharif.athar/viz/NetflixShowsMoviesDashboard/Dashboard1
+)
 - **Business Problem:** Netflix is confronted with the task of extracting valuable insights from their expansive repository of show and movie data, totaling approximately 82,000 rows. However, the sheer volume of data presents a significant challenge, necessitating a robust and scalable data analytics solution. They require a system capable of effectively processing this extensive dataset, uncovering actionable patterns and trends to enhance their service offerings and provide valuable insights to their subscribers.
 
 - **How I Plan On Solving the Problem:**To assist Netflix in extracting valuable insights from their extensive collection of movies and shows, I utilized SQL alongside a data visualization tool such as Tableau. Through SQL's capabilities, I aimed to extract pertinent information and conducted in-depth analyses, focusing on metrics like viewer ratings, genre preferences, popularity trends, and viewership patterns. Following data extraction and preparation, I utilized Tableau to present these findings effectively. This involved creating visually engaging charts, graphs, and interactive visualizations that enabled stakeholders to explore the data interactively. My plan included developing a dynamic Tableau dashboard that facilitated exploration of specific movie genres, viewer demographics, and geographical regions.
