@@ -1,5 +1,5 @@
 # <p align="center">Netflix Shows and Movies Project</p>
-# <p align="center">![Pic]([https://i.ibb.co/Q81WwRN/92399716.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fabout.netflix.com%2Fen%2Fnews%2Fcontinuing-our-games-journey&psig=AOvVaw0R2n6Ss1xrxzzqhhpB3nND&ust=1712955789152000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMirrfWHu4UDFQAAAAAdAAAAABAE))</p>
+# <p align="center">![Pic]([https://i.ibb.co/Q81WwRN/92399716.jpg])</p>
 
 **Tools Used:** Excel, MySQL, Tableau
 
