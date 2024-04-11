@@ -1,5 +1,5 @@
 # <p align="center">Netflix Shows and Movies Project</p>
-# <p align="center">![Pic]([https://i.ibb.co/Q81WwRN/92399716.jpg])</p>![N-Games_March_936x622](https://github.com/PriyanshFatwani/Netflix-SQL/assets/144089981/fd53f27b-27f9-4b2c-aeaa-71d869ffb148)
+![N-Games_March_936x622](https://github.com/PriyanshFatwani/Netflix-SQL/assets/144089981/fd53f27b-27f9-4b2c-aeaa-71d869ffb148)
 
 
 **Tools Used:** Excel, MySQL, Tableau
