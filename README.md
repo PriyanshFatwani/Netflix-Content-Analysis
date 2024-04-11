@@ -1,17 +1,16 @@
 # <p align="center">Netflix Shows and Movies Project</p>
-# <p align="center">![Pic](https://i.ibb.co/Q81WwRN/92399716.jpg)</p>
+# <p align="center">![Pic]([https://i.ibb.co/Q81WwRN/92399716.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fabout.netflix.com%2Fen%2Fnews%2Fcontinuing-our-games-journey&psig=AOvVaw0R2n6Ss1xrxzzqhhpB3nND&ust=1712955789152000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMirrfWHu4UDFQAAAAAdAAAAABAE))</p>
 
 **Tools Used:** Excel, MySQL, Tableau
 
 [Datasets Used](https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies?select=titles.csv)
 
-[SQL Analysis (Code)](https://github.com/SharifAthar/Netflix-Shows-and-Movies-SQL/blob/main/Netflix_SQL_Analysis.sql)
+[Netflix Dashboard - Tableau]([https://public.tableau.com/app/profile/sharif.athar/viz/NetflixShowsMoviesDashboard/Dashboard1](https://public.tableau.com/views/NetflixShowsandMovies_17128672647860/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link))
 
-[Netflix Dashboard - Tableau](https://public.tableau.com/app/profile/sharif.athar/viz/NetflixShowsMoviesDashboard/Dashboard1)
+- **Business Problem:** Netflix is confronted with the task of extracting valuable insights from their expansive repository of show and movie data, totaling approximately 82,000 rows. However, the sheer volume of data presents a significant challenge, necessitating a robust and scalable data analytics solution. They require a system capable of effectively processing this extensive dataset, uncovering actionable patterns and trends to enhance their service offerings and provide valuable insights to their subscribers.
 
-- **Business Problem:** Netflix wants to gather useful insights on their shows and movies for their subscribers through their datasets. The issue is, they are working with too much data (approximately 82k rows of data combined) and are unsure how to effectively analyze and extract meaningful insights from it. They need a robust and scalable data analytics solution to handle the vast amount of data and uncover valuable patterns and trends.
+- **How I Plan On Solving the Problem:**To assist Netflix in extracting valuable insights from their extensive collection of movies and shows, I utilized SQL alongside a data visualization tool such as Tableau. Through SQL's capabilities, I aimed to extract pertinent information and conducted in-depth analyses, focusing on metrics like viewer ratings, genre preferences, popularity trends, and viewership patterns. Following data extraction and preparation, I utilized Tableau to present these findings effectively. This involved creating visually engaging charts, graphs, and interactive visualizations that enabled stakeholders to explore the data interactively. My plan included developing a dynamic Tableau dashboard that facilitated exploration of specific movie genres, viewer demographics, and geographical regions.
 
-- **How I Plan On Solving the Problem:** In helping Netflix gather valuable insights from their extensive movies and shows dataset, I will be utilizing SQL and a data visualization tool like Tableau to extract relevant information, and conduct insightful analyses. By leveraging SQL's functions, I can uncover key metrics such as viewer ratings, popularity trends, genre preferences, and viewership patterns. Once the data has been extracted and prepared, I will leverage Tableau to present the findings. This will allow for interactive exploration of the data, enabling stakeholders at Netflix to gain actionable insights through visually appealing charts, graphs, and interactive visualizations. I plan on creating a dynamic dashboard in Tableau that enables users to delve into specific movie genres, viewer demographics, or geographical regions.
 
 ## Questions I Wanted To Answer From the Dataset:
 
